@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Authenticate Qualification</string>
+    <string name="title_activity_ticket">Authenticate Qualification</string>
+    <string name="title_login_activity">Authenticate Qualification-Login</string>
+    <string name="title_register_activity">Authenticate Qualification-Register</string>
+    <string name="lbl_qualification">National ID No:</string>
+    <string name="lbl_status">Status</string>
+    <string name="lbl_rating">RATING</string>
+    <string name="lbl_price">PRICE</string>
+    <string name="btn_buy_now">BUY NOW</string>
+    <string name="btn_coming_soon">VIEW MORE</string>
+    <string name="msg_no_ticket_found">No Qualification found. Try scanning the QR Codes from National Learner Record Database/</string>
+    <string name="lbl_scan_activity">Scan QR Code</string>
+
+
+    <string name="Timeline">Timeline</string>
+    <string name="Profile">Profile</string>
+    <string name="Events">Events</string>
+    <string name="Booking">Booking</string>
+    <string name="Chat">Adverts</string>
+
+    <string name="spinner_title">Select Category</string>
+
+    <string name="BookMe">BookMe</string>
+    <string name="RememberME">Remember ME...</string>
+    <string name="title_activity_my_profile">MyProfileActivity</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">About "Find Artist App"</string>
+    <string name="slide_1_desc">The easiest way get Updates,Events and book your local and International Artist</string>
+
+    <string name="slide_2_title">Timeline</string>
+    <string name="slide_2_desc">Stay updated with your artist and events happening everywhere</string>
+
+    <string name="slide_3_title">Events</string>
+    <string name="slide_3_desc">Get latest Gigs of your favourite Artists and Locations</string>
+
+    <string name="slide_4_title">Bookings</string>
+    <string name="slide_4_desc">Book your local and International Artist for your events</string>
+
+    <string name="slide_5_title">Adverts</string>
+    <string name="slide_5_desc">Advertise your products on Find Artist App,Contact Admins(nmjiyane1@gmail.com)</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Find Your DJ Again!</string>
+    <string name="title_activity_customized_list_view">CustomizedListView</string>
+
+    <string name="hint_fullname">Full name</string>
+    <string name="hint_contactNumber">Contact Numbers</string>
+    <string name="hint_address">Physical Address</string>
+    <string name="hint_confirmpassword">Confirm Password</string>
+    <string name="hintLocation">Event Location</string>
+    <string name="hintTimelineDateTime">Event Date and Time</string>
+    <string name="hintDetails">More Event Info</string>
+
+    <string name="hintFullName">Full name</string>
+    <string name="hintDJName">DJ / Artist known Name</string>
+    <string name="hintGenre">Type Of Genre</string>
+    <string name="hintHosterName">Event Hosted By?</string>
+
+    <string name="hintTimelineTopic">Timeline Topic</string>
+    <string name="hintTimelineDetails">Share Your Timeline</string>
+
+
+    <string name="hintPassword">Password</string>
+    <string name="hintConfirmPassword">Confirm Password</string>
+    <string name="hint_ContactNo">Contact Numbers</string>
+    <string name="hint_ArtistFullname">Full Names</string>
+    <string name="hint_ArtistKnowName">Know Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_register">SEND BOOKING NOTIFICATION</string>
+    <string name="btn_addEvent">Add Your Event</string>
+    <string name="btn_viewEvent">View Your Events</string>
+    <string name="btn_addTimeline">Add Your Timeline</string>
+    <string name="btn_viewTimeline">View Your Timeline</string>
+    <string name="btn_timelineAttachment">Upload Timeline Pictures</string>
+    <string name="btn_Cancel">Cancel</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Full name</string>
+
+    <string name="reg_email_login">Register</string>
+    <string name="hint_email_login">Email</string>
+    <string name="btn_link_to_register">Register</string>
+    <string name="btn_link_to_login">Already registered! Login Me.</string>
+    <string name="btn_Register">Register</string>
+
+
+    //Dialogs
+    <string name="dialogfragment">Open DialogFragment</string>
+    <string name="progressdialogfragment">Open Alert DialogFragment</string>
+    <string name="title_activity_manage_profile_catalogue">ManageProfileCatalogueActivity</string>
+</resources>

@@ -1,0 +1,266 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\cb2c7ec78e3c0af646647eb900844315\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0b2ef27edc7260626c02d3c913fc76c\AndroidManifest.xml:2:1-11:12
+MERGED from [info.androidhive:barcode-reader:1.1.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\barcode-reader-1.1.2.aar\2d112c1ebcde303955d7311fbc8a6f99\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.2.aar\fa3e463a159ef09dc12b1199f9964211\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\9bb5eba3b2a207e4277f91d44342b796\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.2.aar\13281984e48f3c53b92af16b1195b881\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\5a399dcc2f30b4ed046e2f3d7e319aeb\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\f4c6984a2e4cd5519f26054ef124a5bc\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\671dc766aff3fabafdc71a1a2f3054fb\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:design:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\7f1156c051f64ec37253ad005d5e19db\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\e1872ea2fc3b31012153266494724d02\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\460a376378684a4d50f540290f062664\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\dd7f869f276bff925f4725e83756df76\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\d28bd8fe5e6aabd4fe807f9cfbecca12\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\65e1e5e7788ed45a11b4d7179d847955\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\5f7e4f5bed1a07bd57bdc7cc3ea061b2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\0447a23848cb87072fc33eb5d77ea019\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\f35b7c3a734d35b5e557466d4b423c2f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\52426a0ddc65e32c62aaac5c13caa4da\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\d6287036f5f456e3d83851454d3c6bb9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\d4f2d656fbf993548322441d31f92963\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:7:5-42:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0b2ef27edc7260626c02d3c913fc76c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0b2ef27edc7260626c02d3c913fc76c\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.2.aar\fa3e463a159ef09dc12b1199f9964211\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.2.aar\fa3e463a159ef09dc12b1199f9964211\AndroidManifest.xml:4:5-19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\9bb5eba3b2a207e4277f91d44342b796\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\9bb5eba3b2a207e4277f91d44342b796\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.2.aar\13281984e48f3c53b92af16b1195b881\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.2.aar\13281984e48f3c53b92af16b1195b881\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\5a399dcc2f30b4ed046e2f3d7e319aeb\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\5a399dcc2f30b4ed046e2f3d7e319aeb\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\f4c6984a2e4cd5519f26054ef124a5bc\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\f4c6984a2e4cd5519f26054ef124a5bc\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\671dc766aff3fabafdc71a1a2f3054fb\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\671dc766aff3fabafdc71a1a2f3054fb\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\7f1156c051f64ec37253ad005d5e19db\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\7f1156c051f64ec37253ad005d5e19db\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\e1872ea2fc3b31012153266494724d02\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\e1872ea2fc3b31012153266494724d02\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\460a376378684a4d50f540290f062664\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\460a376378684a4d50f540290f062664\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\dd7f869f276bff925f4725e83756df76\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\dd7f869f276bff925f4725e83756df76\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\d28bd8fe5e6aabd4fe807f9cfbecca12\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\d28bd8fe5e6aabd4fe807f9cfbecca12\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\65e1e5e7788ed45a11b4d7179d847955\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\65e1e5e7788ed45a11b4d7179d847955\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\5f7e4f5bed1a07bd57bdc7cc3ea061b2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\5f7e4f5bed1a07bd57bdc7cc3ea061b2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\0447a23848cb87072fc33eb5d77ea019\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\0447a23848cb87072fc33eb5d77ea019\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\f35b7c3a734d35b5e557466d4b423c2f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\f35b7c3a734d35b5e557466d4b423c2f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\52426a0ddc65e32c62aaac5c13caa4da\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\52426a0ddc65e32c62aaac5c13caa4da\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\d6287036f5f456e3d83851454d3c6bb9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\d6287036f5f456e3d83851454d3c6bb9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\d4f2d656fbf993548322441d31f92963\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\d4f2d656fbf993548322441d31f92963\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:8:9-47
+activity#project.nathi.tut.ac.za.qualauthapp.activity.SplashScreenActivity
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:15:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:16:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:24:27-74
+activity#project.nathi.tut.ac.za.qualauthapp.activity.ScanActivity
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:27:9-30:52
+	android:screenOrientation
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:29:13-54
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:28:13-50
+activity#project.nathi.tut.ac.za.qualauthapp.activity.TicketResultActivity
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:31:9-35:59
+	android:screenOrientation
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:33:13-58
+	android:theme
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:32:13-58
+activity#project.nathi.tut.ac.za.qualauthapp.activity.MainActivity
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:36:9-59
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:36:19-56
+activity#project.nathi.tut.ac.za.qualauthapp.activity.RegisterUserActivity
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:37:9-67
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:37:19-64
+activity#project.nathi.tut.ac.za.qualauthapp.activity.LoginUserActivity
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:38:9-40:60
+	android:label
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:40:13-57
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:39:13-55
+activity#project.nathi.tut.ac.za.qualauthapp.activity.ViewMoreActivity
+ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:41:9-72
+	android:name
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml:41:19-60
+uses-sdk
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\cb2c7ec78e3c0af646647eb900844315\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\cb2c7ec78e3c0af646647eb900844315\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0b2ef27edc7260626c02d3c913fc76c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0b2ef27edc7260626c02d3c913fc76c\AndroidManifest.xml:5:5-7:41
+MERGED from [info.androidhive:barcode-reader:1.1.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\barcode-reader-1.1.2.aar\2d112c1ebcde303955d7311fbc8a6f99\AndroidManifest.xml:7:5-9:41
+MERGED from [info.androidhive:barcode-reader:1.1.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\barcode-reader-1.1.2.aar\2d112c1ebcde303955d7311fbc8a6f99\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.2.aar\fa3e463a159ef09dc12b1199f9964211\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.2.aar\fa3e463a159ef09dc12b1199f9964211\AndroidManifest.xml:3:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\9bb5eba3b2a207e4277f91d44342b796\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\9bb5eba3b2a207e4277f91d44342b796\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.2.aar\13281984e48f3c53b92af16b1195b881\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.2.aar\13281984e48f3c53b92af16b1195b881\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\5a399dcc2f30b4ed046e2f3d7e319aeb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\5a399dcc2f30b4ed046e2f3d7e319aeb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\f4c6984a2e4cd5519f26054ef124a5bc\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\f4c6984a2e4cd5519f26054ef124a5bc\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\671dc766aff3fabafdc71a1a2f3054fb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\671dc766aff3fabafdc71a1a2f3054fb\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\7f1156c051f64ec37253ad005d5e19db\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\7f1156c051f64ec37253ad005d5e19db\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\e1872ea2fc3b31012153266494724d02\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\e1872ea2fc3b31012153266494724d02\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\460a376378684a4d50f540290f062664\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\460a376378684a4d50f540290f062664\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\dd7f869f276bff925f4725e83756df76\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\dd7f869f276bff925f4725e83756df76\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\d28bd8fe5e6aabd4fe807f9cfbecca12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\d28bd8fe5e6aabd4fe807f9cfbecca12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\65e1e5e7788ed45a11b4d7179d847955\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\65e1e5e7788ed45a11b4d7179d847955\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\5f7e4f5bed1a07bd57bdc7cc3ea061b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\5f7e4f5bed1a07bd57bdc7cc3ea061b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\0447a23848cb87072fc33eb5d77ea019\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\0447a23848cb87072fc33eb5d77ea019\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\f35b7c3a734d35b5e557466d4b423c2f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\f35b7c3a734d35b5e557466d4b423c2f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\52426a0ddc65e32c62aaac5c13caa4da\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\52426a0ddc65e32c62aaac5c13caa4da\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\d6287036f5f456e3d83851454d3c6bb9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\d6287036f5f456e3d83851454d3c6bb9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\d4f2d656fbf993548322441d31f92963\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\d4f2d656fbf993548322441d31f92963\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\7f1156c051f64ec37253ad005d5e19db\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jiyanem\Documents\AndroidProjects\QualAuthApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [info.androidhive:barcode-reader:1.1.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\barcode-reader-1.1.2.aar\2d112c1ebcde303955d7311fbc8a6f99\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [info.androidhive:barcode-reader:1.1.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\barcode-reader-1.1.2.aar\2d112c1ebcde303955d7311fbc8a6f99\AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from [info.androidhive:barcode-reader:1.1.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\barcode-reader-1.1.2.aar\2d112c1ebcde303955d7311fbc8a6f99\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from [info.androidhive:barcode-reader:1.1.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\barcode-reader-1.1.2.aar\2d112c1ebcde303955d7311fbc8a6f99\AndroidManifest.xml:13:19-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\5a399dcc2f30b4ed046e2f3d7e319aeb\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\5a399dcc2f30b4ed046e2f3d7e319aeb\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\5a399dcc2f30b4ed046e2f3d7e319aeb\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\5a399dcc2f30b4ed046e2f3d7e319aeb\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\671dc766aff3fabafdc71a1a2f3054fb\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\671dc766aff3fabafdc71a1a2f3054fb\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\671dc766aff3fabafdc71a1a2f3054fb\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\7f1156c051f64ec37253ad005d5e19db\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\e1872ea2fc3b31012153266494724d02\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta2.aar\e1872ea2fc3b31012153266494724d02\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\460a376378684a4d50f540290f062664\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:transition:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta2.aar\460a376378684a4d50f540290f062664\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\dd7f869f276bff925f4725e83756df76\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v4:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta2.aar\dd7f869f276bff925f4725e83756df76\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\d28bd8fe5e6aabd4fe807f9cfbecca12\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta2.aar\d28bd8fe5e6aabd4fe807f9cfbecca12\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\65e1e5e7788ed45a11b4d7179d847955\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta2.aar\65e1e5e7788ed45a11b4d7179d847955\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\5f7e4f5bed1a07bd57bdc7cc3ea061b2\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta2.aar\5f7e4f5bed1a07bd57bdc7cc3ea061b2\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\0447a23848cb87072fc33eb5d77ea019\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta2.aar\0447a23848cb87072fc33eb5d77ea019\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\f35b7c3a734d35b5e557466d4b423c2f\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta2.aar\f35b7c3a734d35b5e557466d4b423c2f\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\52426a0ddc65e32c62aaac5c13caa4da\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta2.aar\52426a0ddc65e32c62aaac5c13caa4da\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\d6287036f5f456e3d83851454d3c6bb9\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta2.aar\d6287036f5f456e3d83851454d3c6bb9\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\d4f2d656fbf993548322441d31f92963\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta2.aar\d4f2d656fbf993548322441d31f92963\AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from [com.android.support:design:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\7f1156c051f64ec37253ad005d5e19db\AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from [com.android.support:design:26.0.0-beta2] C:\Users\jiyanem\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta2.aar\7f1156c051f64ec37253ad005d5e19db\AndroidManifest.xml:27:13-51
